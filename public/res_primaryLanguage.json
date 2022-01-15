@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Robb Alexander. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi!",
+      "description": "I'm Robb. I'm a software developer based in Seattle with an eclectic background: some education in biology, philosophy, and literature, and some experience in community mental health as well as class action lawsuit administration. I'm excited to bring my point of view and critical thinking skills to the challenge of coding.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
